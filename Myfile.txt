@@ -1,0 +1,2 @@
+This is my file and today Iam learning how 
+to open a file using c functions 
